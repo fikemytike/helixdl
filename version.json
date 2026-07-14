@@ -6,9 +6,9 @@
             "changelog": "Initial authenthication release"
         },
         "loader": {
-            "version": "1.0.1",
-            "downloadURI": "https://github.com/fikemytike/helixdl/releases/download/loader-v1.0.1/HelixLoader.exe",
-            "changelog": "Add dynamic version fetching"
+            "version": "1.0.2",
+            "downloadURI": "https://github.com/fikemytike/helixdl/releases/download/loader-v1.0.2/HelixLoader.exe",
+            "changelog": "I realistically can't be this dumb bro"
         }
     }
 }
