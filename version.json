@@ -1,9 +1,9 @@
 {
     "helix": {
         "client": {
-            "version": "1.0.1",
-            "downloadURI": "https://github.com/fikemytike/helixdl/releases/download/client-v1.0.1/Helix.exe",
-            "changelog": "new ui improvements / updated to latest roblox"
+            "version": "1.1.0",
+            "downloadURI": "https://github.com/fikemytike/helixdl/releases/download/client-v1.1.0/Helix.exe",
+            "changelog": "a lot of new features + upgrades"
         },
         "loader": {
             "version": "1.0.2",
