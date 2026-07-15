@@ -6,9 +6,9 @@
             "changelog": "new cryptography features + fixes"
         },
         "loader": {
-            "version": "1.1.0",
-            "downloadURI": "https://github.com/fikemytike/helixdl/releases/download/loader-v1.1.0/HelixLoader.exe",
-            "changelog": "new cryptography features"
+            "version": "1.1.1",
+            "downloadURI": "https://github.com/fikemytike/helixdl/releases/download/loader-v1.1.1/HelixLoader.exe",
+            "changelog": "i forgot to update the version of the loader"
         }
     }
 }
