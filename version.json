@@ -1,9 +1,9 @@
 {
     "helix": {
         "client": {
-            "version": "1.2.3",
-            "downloadURI": "https://github.com/fikemytike/helixdl/releases/download/client-v1.2.3/Helix.exe",
-            "changelog": "feature fixes"
+            "version": "1.2.4",
+            "downloadURI": "https://github.com/fikemytike/helixdl/releases/download/client-v1.2.4/Helix.exe",
+            "changelog": "update to version-ddf02245bdbb428c"
         },
         "loader": {
             "version": "1.1.1",
