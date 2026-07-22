@@ -2,8 +2,8 @@
     "helix": {
         "client": {
             "version": "1.2.5",
-            "downloadURI": "https://github.com/fikemytike/helixdl/releases/download/client-v1.2.5/Helix.exe",
-            "changelog": "updated client aim."
+            "downloadURI": "https://helix.peretas.live/files/download/7ebeb009-55d8-490b-acce-5946b2835523",
+            "changelog": "update to version-9affbe66b2624d20"
         },
         "loader": {
             "version": "1.1.1",
